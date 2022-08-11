@@ -13,26 +13,26 @@
 <div align="center">
 <div id="badges">
 <a href="https://github.com/ASalad42?tab=repositories">
-<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=&logo=firefox&logoColor=#FF7139 "/>
+<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139 "/>
   </div>
 
 <div align="center">
     <h2>
 Tech Stack
            </h2>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=&logo=python&logoColor=white "/>
-      <img src="https://img.shields.io/badge/GIT-E44C30?style=&logo=git&logoColor=white "/>
-      <img src="https://img.shields.io/badge/Markdown-000000?style=&logo=markdown&logoColor=white "/>
-      <img src="https://img.shields.io/badge/Ruby-CC342D?style=&logo=ruby&logoColor=white"/>
-      <img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=vagrant&logoColor=white "/>
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=&logo=oracle&logoColor=black "/> 
+      <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white "/>
+      <img src="https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white "/>
+      <img src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white "/>
+      <img src="https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=ruby&logoColor=white"/>
+      <img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=plastic&logo=vagrant&logoColor=white "/>
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=black "/> 
   </div>
   
   <div align="center">
     <h3>
-<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=&logo=microsoft-office&logoColor=white "/> 
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=microsoft-office&logoColor=white "/> 
       </h3>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white "/> <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white "/> <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white "/> <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white "/> 
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=plastic&logo=trello&logoColor=white "/> <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=plastic&logo=microsoft-word&logoColor=white "/> <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=plastic&logo=microsoft-powerpoint&logoColor=white "/> <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=plastic&logo=microsoft-visio&logoColor=white "/> 
   </div>
   
 <div align="center">
@@ -41,12 +41,12 @@ Tech Stack
          </h4>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white "/>
-<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white  "/>
-<img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white "/>
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white "/>
-<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white "/>
+<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white  "/>
+<img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white "/>
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white "/>
+<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white"/>
     </div>
  
 
