@@ -28,12 +28,8 @@ Tech Stack
       <img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=plastic&logo=vagrant&logoColor=white "/>
       <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=black "/> 
       <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"/>
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"/>
-      
-  
-  <img src=""/>
-  <img src=""/>
-  <img src=""/>
   
   </div>
   
@@ -73,10 +69,11 @@ Tech Stack
 
 
 <div align="center">
-  <h4>
- GitHub Stats:
-        </h4>
-<img src="https://komarev.com/ghpvc/?username=ASalad42&color=brightgreen" alt=""/>
+
+  
+  [![Ayanle's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASalad42)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/ASalad42/github-readme-stats))
+  
+  <img src="https://komarev.com/ghpvc/?username=ASalad42&color=brightgreen" alt=""/>
 
 
   </div>
