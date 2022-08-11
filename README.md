@@ -2,7 +2,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?ASalad42=your-github-ASalad42&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=ASalad42&color=brightgreen)
 
 Toolkit 
 - Python 
