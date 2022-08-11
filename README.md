@@ -6,9 +6,9 @@
 </h1>
   </div>
 
-- 💻 I am working as a DevOps Engineer in the UK
-- 🧐 My Background - Completed a masters degree in Chemical & Petroleum Engineering, enjoyed a year in Additive Manufacturing - and now ... loving tech ❤️
-- 👯 I’m looking to collaborate on open source/commercial projects
+- 💻 I am working as a **DevOps Engineer** in the UK
+- 🧐 My Background - Completed a masters degree in **Chemical & Petroleum Engineering**, enjoyed a year in Additive Manufacturing - and now ... loving tech ❤️
+- 👯 I’m looking to collaborate on **Open Source/Commercial** projects
 - 🔭 I’m currently working on creating a website to showcase my DevOps journey and learning path 
 <div align="center">
 <div id="badges">
@@ -24,6 +24,8 @@ Tech Stack
       <img src="https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white "/>
       <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white"/>
       <img src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white "/>
+      <img src="https://img.shields.io/badge/Agile-blue?logo=&logoColor=white&style=plastic"/>
+      <img src="https://img.shields.io/badge/Scrum-success?logo=&logoColor=white&style=plastic"/>
       <img src="https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=ruby&logoColor=white"/>
       <img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=plastic&logo=vagrant&logoColor=white "/>
       <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=black "/> 
