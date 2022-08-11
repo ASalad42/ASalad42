@@ -1,4 +1,8 @@
-# Welcome - My name is Ayanle 👋
+#  
+<h1>
+  Welcome - My name is Ayanle
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 ⚡ I am an enthusiastic DevOps Engineer ⚡ 
 
@@ -25,5 +29,5 @@ My Background: Completed a masters degree in Chemical & Petroleum Engineering, e
 
 #### GitHub Stats:
 
-![](https://komarev.com/ghpvc/?username=ASalad42&color=brightgreen)
+<img src="https://komarev.com/ghpvc/?username=ASalad42&color=brightgreen" alt=""/>
 
