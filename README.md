@@ -16,7 +16,12 @@ My Background: Completed a masters degree in Chemical & Petroleum Engineering, e
 - 🔭 I’m currently working on creating a website to showcase my DevOps jounrney and learning path 
 - 🌱 I’m currently learning  · Jenkins · Ansible  · Terraform  · Amazon Web Services (AWS) · Kubernetes · Cloud Services 
 - 👯 I’m looking to collaborate on open source/commercial projects 
-- 📫 How to reach me: https://www.linkedin.com/in/ayanle-salad-1248191b6/
+- 📫 How to reach me: 
+
+<div id="badges">
+<a href="https://www.linkedin.com/in/ayanle-salad-1248191b6/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
 
 #### GitHub Stats:
 
