@@ -13,26 +13,26 @@
 <div align="center">
 <div id="badges">
 <a href="https://github.com/ASalad42?tab=repositories">
-<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 "/>
+<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=&logo=firefox&logoColor=#FF7139 "/>
   </div>
 
 <div align="center">
     <h2>
 Tech Stack
            </h2>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white "/>
-      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white "/>
-      <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white "/>
-      <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
-      <img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white "/>
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black "/> 
+      <img src="https://img.shields.io/badge/Python-3776AB?style=&logo=python&logoColor=white "/>
+      <img src="https://img.shields.io/badge/GIT-E44C30?style=&logo=git&logoColor=white "/>
+      <img src="https://img.shields.io/badge/Markdown-000000?style=&logo=markdown&logoColor=white "/>
+      <img src="https://img.shields.io/badge/Ruby-CC342D?style=&logo=ruby&logoColor=white"/>
+      <img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=vagrant&logoColor=white "/>
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=&logo=oracle&logoColor=black "/> 
   </div>
   
   <div align="center">
     <h3>
-<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white "/> 
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=&logo=microsoft-office&logoColor=white "/> 
       </h3>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white "/> <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white "/> <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white "/> <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white "/> 
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white "/> <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white "/> <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white "/> <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white "/> 
   </div>
   
 <div align="center">
