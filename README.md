@@ -22,17 +22,26 @@ Tech Stack
            </h2>
       <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white "/>
       <img src="https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white "/>
+      <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white"/>
       <img src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white "/>
       <img src="https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=ruby&logoColor=white"/>
       <img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=plastic&logo=vagrant&logoColor=white "/>
       <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=black "/> 
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"/>
+      
+  
+  <img src=""/>
+  <img src=""/>
+  <img src=""/>
+  
   </div>
   
   <div align="center">
     <h3>
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=microsoft-office&logoColor=white "/> 
       </h3>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=plastic&logo=trello&logoColor=white "/> <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=plastic&logo=microsoft-word&logoColor=white "/> <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=plastic&logo=microsoft-powerpoint&logoColor=white "/> <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=plastic&logo=microsoft-visio&logoColor=white "/> 
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=plastic&logo=trello&logoColor=white "/> <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=plastic&logo=microsoft-word&logoColor=white "/> <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=plastic&logo=microsoft-powerpoint&logoColor=white "/> <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=plastic&logo=microsoft-visio&logoColor=white "/>   <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=plastic&logo=microsoft-teams&logoColor=white"/>
   </div>
   
 <div align="center">
@@ -68,5 +77,6 @@ Tech Stack
  GitHub Stats:
         </h4>
 <img src="https://komarev.com/ghpvc/?username=ASalad42&color=brightgreen" alt=""/>
+
 
   </div>
