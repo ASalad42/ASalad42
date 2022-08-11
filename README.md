@@ -18,7 +18,7 @@
 
 <div align="center">
     <h2>
-Tech Stack
+:mortar_board: Tech Stack
            </h2>
       <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white "/>
       <img src="https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white "/>
@@ -37,15 +37,15 @@ Tech Stack
   
   <div align="center">
     <h3>
-<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=microsoft-office&logoColor=white "/> 
+    :office: Microsoft Office 
       </h3>
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=plastic&logo=trello&logoColor=white "/> <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=plastic&logo=microsoft-word&logoColor=white "/> <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=plastic&logo=microsoft-powerpoint&logoColor=white "/> <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=plastic&logo=microsoft-visio&logoColor=white "/>   <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=plastic&logo=microsoft-teams&logoColor=white"/>
   </div>
   
 <div align="center">
-    <h4>
+    <h3>
   🌱 I’m currently learning 
-         </h4>
+         </h3>
 
 <div align="center">
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white "/>
@@ -62,9 +62,9 @@ Tech Stack
 
 
 <div align="center">
-    <h4>
+    <h3>
   📫 How to reach me: 
-         </h4>
+         </h3>
 <div id="badges">
 <a href="https://www.linkedin.com/in/ayanle-salad-1248191b6/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
