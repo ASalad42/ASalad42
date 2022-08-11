@@ -72,8 +72,9 @@ Tech Stack
 
 <div align="center">
 
+  ### :fire: My Stats 
   
-  [![Ayanle's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASalad42)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/ASalad42/github-readme-stats))
+  [![Ayanle's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASalad42&count_private=trueshow_icons=true&theme=algolia)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/ASalad42/github-readme-stats))
   
   <img src="https://komarev.com/ghpvc/?username=ASalad42&color=brightgreen" alt=""/>
 
