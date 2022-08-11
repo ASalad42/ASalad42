@@ -1,8 +1,8 @@
 
 <div align="center">
 <h1>
-  Welcome - My name is Ayanle
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> My name is Ayanle :grin:
+  
 </h1>
   </div>
 
