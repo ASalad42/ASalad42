@@ -1,15 +1,14 @@
 ### Hi there 👋
 
-
-
-![](https://komarev.com/ghpvc/?username=ASalad42&color=brightgreen)
-
-Toolkit 
+Languages and Tools 
 - Python 
 - Git & Github
 - Ruby
 - Vagrant
 - Virtual box
+
+GitHub Stats
+![](https://komarev.com/ghpvc/?username=ASalad42&color=brightgreen)
 
 - 🔭 I’m currently working on creating a website to showcase my DevOps jounrney and learning path 
 - 🌱 I’m currently learning · Python (Programming Language) · Jenkins · Ansible · GitHub · Terraform · DevOps · Amazon Web Services (AWS) · Kubernetes · Cloud Services 
