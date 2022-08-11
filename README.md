@@ -10,6 +10,11 @@
 - 🧐 My Background - Completed a masters degree in Chemical & Petroleum Engineering, enjoyed a year in Additive Manufacturing - and now ... loving tech ❤️
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 🔭 I’m currently working on creating a website to showcase my DevOps journey and learning path 
+<div align="center">
+<div id="badges">
+<a href="https://github.com/ASalad42?tab=repositories">
+<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 "/>
+  </div>
 
 <div align="center">
     <h2>
