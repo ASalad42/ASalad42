@@ -28,7 +28,7 @@ Tech Stack
       <img src="https://img.shields.io/badge/Scrum-success?logo=&logoColor=white&style=plastic"/>
       <img src="https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=ruby&logoColor=white"/>
       <img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=plastic&logo=vagrant&logoColor=white "/>
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=black "/> 
+      <img src="https://img.shields.io/badge/OracleVM-F80000?style=plastic&logo=oracle&logoColor=black "/> 
       <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"/>
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"/>
@@ -49,6 +49,7 @@ Tech Stack
 
 <div align="center">
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white "/>
+  <img src="https://img.shields.io/badge/CICD_Pipe_Lines-blue?logo=&logoColor=white&style=plastic"/>
 <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white  "/>
 <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white "/>
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white "/>
