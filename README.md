@@ -7,8 +7,8 @@
   </div>
 
 - 💻 I am working as a **DevOps Engineer** in the UK
-- 🧐 My Background - Completed a masters degree in **Chemical & Petroleum Engineering**, enjoyed a year in Additive Manufacturing - and now ... loving tech ❤️
-- 👯 I’m looking to collaborate on **Open Source/Commercial** projects
+- :rocket: My Background - Completed a masters degree in **Chemical & Petroleum Engineering**, enjoyed a year in Additive Manufacturing - and now ... loving tech ❤️
+- :globe_with_meridians: I’m looking to collaborate on **Open Source/Commercial** projects
 - 🔭 I’m currently working on creating a website to showcase my DevOps journey and learning path 
 <div align="center">
 <div id="badges">
