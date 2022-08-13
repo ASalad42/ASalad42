@@ -12,6 +12,12 @@
 - 🔭 I’m currently working on creating a website to showcase my DevOps journey and learning path 
 <div align="center">
 <div id="badges">
+<a href="https://www.linkedin.com/in/ayanle-salad-1248191b6/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
+
+<div align="center">
+<div id="badges">
 <a href="https://github.com/ASalad42?tab=repositories">
 <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139 "/>
   </div>
@@ -58,19 +64,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/>
     </div>
  
-
-
-
-
-<div align="center">
-    <h3>
-  📫 How to reach me: 
-         </h3>
-<div id="badges">
-<a href="https://www.linkedin.com/in/ayanle-salad-1248191b6/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</div>
-
 
 <div align="center">
 
