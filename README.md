@@ -38,6 +38,7 @@
       <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"/>
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white"/>
   
   </div>
   
@@ -60,7 +61,6 @@
 <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white "/>
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white "/>
 <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/>
     </div>
  
