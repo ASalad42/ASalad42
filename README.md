@@ -29,7 +29,7 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white "/>
       <img src="https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white "/>
       <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white "/>
+      <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white"/> 
       <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white "/>
       <img src="https://img.shields.io/badge/CICD_Pipe_Lines-blue?logo=&logoColor=white&style=plastic"/>
       <img src="https://img.shields.io/badge/Agile-blue?logo=&logoColor=white&style=plastic"/>
@@ -40,7 +40,8 @@
       <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"/>
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white "/>
+      
   
   </div>
   
