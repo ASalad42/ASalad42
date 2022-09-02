@@ -44,7 +44,7 @@
       <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"/>
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white "/>
+    
       
   
   </div>
