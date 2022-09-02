@@ -24,7 +24,7 @@
 
 <div align="center">
     <h2>
-:mortar_board: Tech Stack
+:mortar_board: Tech Stack and Experience 
            </h2>
       <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white"/>
       <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white  "/>
