@@ -26,12 +26,16 @@
     <h2>
 :mortar_board: Tech Stack
            </h2>
+      <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white  "/>
+      <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white "/>
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white "/>
+      <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CICD_Pipe_Lines-blue?logo=&logoColor=white&style=plastic"/>
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white "/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white "/>
       <img src="https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white "/>
       <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white "/>
-      <img src="https://img.shields.io/badge/CICD_Pipe_Lines-blue?logo=&logoColor=white&style=plastic"/>
       <img src="https://img.shields.io/badge/Agile-blue?logo=&logoColor=white&style=plastic"/>
       <img src="https://img.shields.io/badge/Scrum-success?logo=&logoColor=white&style=plastic"/>
       <img src="https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=ruby&logoColor=white"/>
@@ -58,10 +62,7 @@
          </h3>
 
 <div align="center">
-<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white  "/>
-<img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white "/>
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white "/>
-<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/>
     </div>
  
