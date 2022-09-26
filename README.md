@@ -47,8 +47,8 @@
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=plastic&logo=PyCharm&logoColor=white "/>
       <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visual%20studio&logoColor=white "/> 
-      <img src="https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B?style=plastic&logo=Amazon%20CloudWatch&logoColor=white "/>
-      <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white "/> 
+      
+  
   </div>
   
   <div align="center">
