@@ -33,20 +33,21 @@
       <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white"/>
       <img src="https://img.shields.io/badge/CICD_Pipe_Lines-blue?logo=&logoColor=white&style=plastic"/>
       <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white "/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white "/>
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=plastic&logo=python&logoColor=blue "/>
       <img src="https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white "/>
       <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white"/>
       <img src="https://img.shields.io/badge/Agile-blue?logo=&logoColor=white&style=plastic"/>
       <img src="https://img.shields.io/badge/Scrum-success?logo=&logoColor=white&style=plastic"/>
       <img src="https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=ruby&logoColor=white"/>
       <img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=plastic&logo=vagrant&logoColor=white "/>
-      <img src="https://img.shields.io/badge/OracleVM-F80000?style=plastic&logo=oracle&logoColor=black "/> 
+      <img src="https://img.shields.io/badge/VirtualBox-21416b?style=plastic&logo=VirtualBox&logoColor=white"/> 
       <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"/>
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=plastic&logo=PyCharm&logoColor=white "/>
       <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visual%20studio&logoColor=white "/> 
+      <img src="https://img.shields.io/badge/VSCode-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white "/> 
       
   
   </div>
@@ -65,7 +66,10 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/apache_maven-C71A36?style=plastic&logo=apachemaven&logoColor=white "/> 
+<img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=green "/> 
+ <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white "/> 
+<img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E"/> 
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=Prometheus&logoColor=white "/> 
     </div>
  
@@ -73,7 +77,6 @@
 <div align="center">
 
   ### :fire: My Stats 
-  
   
   
   <img src="https://komarev.com/ghpvc/?username=ASalad42&color=brightgreen" alt=""/>
