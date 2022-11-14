@@ -67,6 +67,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=plastic&logo=microsoft-azure&logoColor=white "/> 
+<img src="https://img.shields.io/badge/GitLab-330F63?style=plastic&logo=gitlab&logoColor=white "/> 
 <img src="https://img.shields.io/badge/apache_maven-C71A36?style=plastic&logo=apachemaven&logoColor=white "/> 
 <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=green "/> 
  <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white "/> 
