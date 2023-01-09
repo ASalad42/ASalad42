@@ -45,6 +45,8 @@
       <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"/>
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white "/>
+      <img src="https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white "/>
       <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=plastic&logo=PyCharm&logoColor=white "/>
       <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visual%20studio&logoColor=white "/> 
       <img src="https://img.shields.io/badge/VSCode-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white "/> 
@@ -75,12 +77,20 @@
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=Prometheus&logoColor=white "/> 
     </div>
  
+ 
+ <div align="center">
+    <h3>
+    :stars: Certifications 
+      </h3>
+      <img src="https://img.shields.io/badge/AWS Certified Cloud Practitioner-FF9900?style=plastic&logo=amazonaws&logoColor=white "/> 
+      <img src="https://img.shields.io/badge/HashiCorp Certified: Terraform Associate-7B42BC?style=plastic&logo=terraform&logoColor=white "/> 
+    </div>
 
 <div align="center">
 
   ### :fire: My Stats 
   
-  
+
   <img src="https://komarev.com/ghpvc/?username=ASalad42&color=brightgreen" alt=""/>
 
 
