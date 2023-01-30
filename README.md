@@ -33,6 +33,7 @@
       <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white"/>
       <img src="https://img.shields.io/badge/CICD_Pipe_Lines-blue?logo=&logoColor=white&style=plastic"/>
       <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white "/>
+      <img src="https://img.shields.io/badge/travis_CI-3EAAAF?style=plastic&logo=travisci&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-FFD43B?style=plastic&logo=python&logoColor=blue "/>
       <img src="https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white "/>
       <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white"/>
