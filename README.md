@@ -60,6 +60,10 @@
     <h3>
 :cloud: Serverless Stack 
            </h3>
+    <img src="https://img.shields.io/badge/Api_Gateway-FF9900?style=plastic&logo=amazonaws&logoColor=white "/>
+    <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=plastic&logo=amazonaws&logoColor=white "/>
+    <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white)"/>
+    <img src="https://img.shields.io/badge/AWS_Cognito-FF9900?style=plastic&logo=amazonaws&logoColor=white "/>
  
  
    
