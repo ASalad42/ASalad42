@@ -55,6 +55,16 @@
   
   </div>
   
+  
+  <div align="center">
+    <h3>
+:cloud: Serverless Stack 
+           </h3>
+ 
+    <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"/>
+   
+   </div>
+  
   <div align="center">
     <h3>
     :office: Microsoft Office 
