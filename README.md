@@ -37,6 +37,7 @@
       <img src="https://img.shields.io/badge/Python-FFD43B?style=plastic&logo=python&logoColor=blue "/>
       <img src="https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white "/>
       <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white "/>
       <img src="https://img.shields.io/badge/Agile-blue?logo=&logoColor=white&style=plastic"/>
       <img src="https://img.shields.io/badge/Scrum-success?logo=&logoColor=white&style=plastic"/>
       <img src="https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=ruby&logoColor=white"/>
@@ -49,7 +50,6 @@
       <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white "/>
       <img src="https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white "/>
       <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=plastic&logo=PyCharm&logoColor=white "/>
-      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visual%20studio&logoColor=white "/> 
       <img src="https://img.shields.io/badge/VSCode-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white "/> 
       
   
@@ -84,11 +84,10 @@
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white "/> 
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=plastic&logo=android-studio&logoColor=white "/> 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E"/> 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white "/> 
-<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=plastic&logo=microsoft-azure&logoColor=white "/> 
-<img src="https://img.shields.io/badge/GitLab-330F63?style=plastic&logo=gitlab&logoColor=white "/> 
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=Prometheus&logoColor=white "/> 
     </div>
  
  
