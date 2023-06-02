@@ -91,6 +91,8 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white "/> 
 <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=plastic&logo=redis&logoColor=white  "/> 
 <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=plastic&logo=Apollo%20GraphQL&logoColor=white  "/> 
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=Prometheus&logoColor=white "/> 
+<img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white "/> 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E"/> 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white "/> 
 <img src= https://img.shields.io/badge/Sentry-black?style=plastic&logo=Sentry&logoColor=#362D59 "/> 
