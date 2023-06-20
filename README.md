@@ -89,6 +89,7 @@
 <img src="https://img.shields.io/badge/Helm-0F1689?style=plastic&logo=Helm&labelColor=0F1689 "/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white "/> 
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=plastic&logo=android-studio&logoColor=white "/> 
+<img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white "/> 
 <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB  "/> 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white "/> 
 <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=plastic&logo=redis&logoColor=white  "/> 
