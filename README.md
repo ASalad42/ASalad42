@@ -48,6 +48,8 @@
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white "/>
+      <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge "/>
+      <img src="https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white "/>
       <img src="https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white "/>
       <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=plastic&logo=PyCharm&logoColor=white "/>
       <img src="https://img.shields.io/badge/VSCode-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white "/> 
@@ -95,6 +97,7 @@
 <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white "/> 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E"/> 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white "/> 
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white "/>
 <img src= https://img.shields.io/badge/Sentry-black?style=plastic&logo=Sentry&logoColor=#362D59 "/> 
     </div>
  
