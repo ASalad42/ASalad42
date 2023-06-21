@@ -99,7 +99,7 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E"/> 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white "/> 
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white "/>
-<img src= https://img.shields.io/badge/Sentry-black?style=plastic&logo=Sentry&logoColor=#362D59 "/> 
+<img src= https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white "/> 
     </div>
  
  
