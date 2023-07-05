@@ -18,7 +18,7 @@
 
 <div align="center">
 <div id="badges">
-<a href="https://github.com/ASalad42?tab=repositories">
+<a href="https://ayanlesalad.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139 "/>
   </div>
 
