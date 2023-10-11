@@ -111,12 +111,4 @@
       <img src="https://img.shields.io/badge/HashiCorp Certified: Terraform Associate-7B42BC?style=plastic&logo=terraform&logoColor=white "/> 
     </div>
 
-<div align="center">
 
-  ### :fire: My Stats 
-
-  ![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ASalad42)
-
-
-
-  </div>
