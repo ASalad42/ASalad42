@@ -36,10 +36,11 @@
       <img src="https://img.shields.io/badge/travis_CI-3EAAAF?style=plastic&logo=travisci&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-FFD43B?style=plastic&logo=python&logoColor=blue "/>
       <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E"/> 
+      <img src="https://img.shields.io/badge/json-5E5C5C?style=plastic&logo=json&logoColor=white "/>
+      <img src="https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=ruby&logoColor=white"/>
       <img src="https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white "/>
       <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white "/>
-      <img src="https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=ruby&logoColor=white"/>
       <img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=plastic&logo=vagrant&logoColor=white "/>
       <img src="https://img.shields.io/badge/VirtualBox-21416b?style=plastic&logo=VirtualBox&logoColor=white"/> 
       <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"/>
@@ -51,8 +52,9 @@
       <img src="https://img.shields.io/badge/Express.js-404D59?style=plastic "/>
       <img src="https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white "/>
       <img src="https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white "/>
-      <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=plastic&logo=PyCharm&logoColor=white "/>
       <img src="https://img.shields.io/badge/VSCode-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white "/> 
+      <img src="https://img.shields.io/badge/Sentry-black?style=plastic&logo=Sentry&logoColor=#362D59 "/> 
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=Jira&logoColor=white "/> 
       
   
   </div>
@@ -114,7 +116,7 @@
   ### :fire: My Stats 
   
 
-  <img src="https://komarev.com/ghpvc/?username=ASalad42&color=brightgreen" alt=""/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ASalad42 "/>
 
 
   </div>
