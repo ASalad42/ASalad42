@@ -114,9 +114,9 @@
 <div align="center">
 
   ### :fire: My Stats 
-  
 
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ASalad42 "/>
+  ![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ASalad42)
+
 
 
   </div>
