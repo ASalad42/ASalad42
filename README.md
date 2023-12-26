@@ -28,6 +28,7 @@
            </h2>
       <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white"/>
       <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white  "/>
+      <img src="https://img.shields.io/badge/Helm-0F1689?style=plastic&logo=Helm&labelColor=0F1689 "/>
       <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white "/>
       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white "/>
       <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white"/>
@@ -53,6 +54,8 @@
       <img src="https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white "/>
       <img src="https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white "/>
       <img src="https://img.shields.io/badge/VSCode-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white "/> 
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=Prometheus&logoColor=white "/> 
+      <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white "/> 
       <img src="https://img.shields.io/badge/Sentry-black?style=plastic&logo=Sentry&logoColor=#362D59 "/> 
       <img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=Jira&logoColor=white "/> 
       
@@ -70,6 +73,8 @@
     <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white)"/>
     <img src="https://img.shields.io/badge/AWS_Cognito-FF9900?style=plastic&logo=amazonaws&logoColor=white "/>
     <img src="https://img.shields.io/badge/AWS_CloudFront-FF9900?style=plastic&logo=amazonaws&logoColor=white "/>
+    <img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=plastic&logo=amazonaws&logoColor=white "/>
+    <img src="https://img.shields.io/badge/AWS_CloudFormation-FF9900?style=plastic&logo=amazonaws&logoColor=white "/>
  
  
    
@@ -88,15 +93,13 @@
          </h3>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Helm-0F1689?style=plastic&logo=Helm&labelColor=0F1689 "/>
+
 <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white "/> 
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=plastic&logo=android-studio&logoColor=white "/> 
 <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white "/> 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white "/> 
 <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=plastic&logo=redis&logoColor=white  "/> 
 <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=plastic&logo=Apollo%20GraphQL&logoColor=white  "/> 
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=Prometheus&logoColor=white "/> 
-<img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white "/> 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white "/> 
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white "/>
 <img src= https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white "/> 
