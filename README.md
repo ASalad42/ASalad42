@@ -38,6 +38,7 @@
       <img src="https://img.shields.io/badge/Python-FFD43B?style=plastic&logo=python&logoColor=blue "/>
       <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E"/> 
       <img src="https://img.shields.io/badge/json-5E5C5C?style=plastic&logo=json&logoColor=white "/>
+      <img src= "https://img.shields.io/badge/GraphQl-E10098?style=plastic&logo=graphql&logoColor=white "/> 
       <img src="https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=ruby&logoColor=white"/>
       <img src="https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white "/>
       <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white"/>
@@ -94,6 +95,8 @@
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Elastic_Search-005571?style=plastic&logo=elasticsearch&logoColor=white "/> 
+<img src="https://img.shields.io/badge/Kibana-005571?style=plastic&logo=Kibana&logoColor=white "/> 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white "/> 
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=plastic&logo=android-studio&logoColor=white "/> 
 <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white "/> 
@@ -102,7 +105,8 @@
 <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=plastic&logo=Apollo%20GraphQL&logoColor=white  "/> 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white "/> 
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white "/>
-<img src= https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white "/> 
+<img src= "https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white "/> 
+<img src= "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white "/> 
     </div>
  
  
