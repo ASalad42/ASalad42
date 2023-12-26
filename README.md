@@ -66,7 +66,7 @@
   
   <div align="center">
     <h3>
-:cloud: Serverless Stack 
+:cloud: AWS Cloud & Serverless Stack 
            </h3>
     <img src="https://img.shields.io/badge/AWS_Api_Gateway-FF9900?style=plastic&logo=amazonaws&logoColor=white "/>
     <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=plastic&logo=amazonaws&logoColor=white "/>
