@@ -68,14 +68,16 @@
     <h3>
 :cloud: AWS Cloud & Serverless Stack 
            </h3>
-    <img src="https://img.shields.io/badge/AWS_Api_Gateway-FF9900?style=plastic&logo=amazonaws&logoColor=white "/>
     <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=plastic&logo=amazonaws&logoColor=white "/>
-     <img src="https://img.shields.io/badge/AWS_SAM-FF9900?style=plastic&logo=amazonaws&logoColor=white "/>
+    <img src="https://img.shields.io/badge/AWS_CloudFormation-FF9900?style=plastic&logo=amazonaws&logoColor=white "/>
+    <img src="https://img.shields.io/badge/AWS_SAM-FF9900?style=plastic&logo=amazonaws&logoColor=white "/>
     <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white)"/>
+    <img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=plastic&logo=amazonaws&logoColor=white "/>
+    <img src="https://img.shields.io/badge/AWS_Api_Gateway-FF9900?style=plastic&logo=amazonaws&logoColor=white "/>
     <img src="https://img.shields.io/badge/AWS_Cognito-FF9900?style=plastic&logo=amazonaws&logoColor=white "/>
     <img src="https://img.shields.io/badge/AWS_CloudFront-FF9900?style=plastic&logo=amazonaws&logoColor=white "/>
-    <img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=plastic&logo=amazonaws&logoColor=white "/>
-    <img src="https://img.shields.io/badge/AWS_CloudFormation-FF9900?style=plastic&logo=amazonaws&logoColor=white "/>
+    
+    
  
  
    
