@@ -38,7 +38,9 @@
       <img src="https://img.shields.io/badge/Python-FFD43B?style=plastic&logo=python&logoColor=blue "/>
       <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E"/> 
       <img src="https://img.shields.io/badge/json-5E5C5C?style=plastic&logo=json&logoColor=white "/>
-      <img src= "https://img.shields.io/badge/GraphQl-E10098?style=plastic&logo=graphql&logoColor=white "/> 
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white "/> 
+      <img src= "https://img.shields.io/badge/GraphQL-E10098?style=plastic&logo=graphql&logoColor=white "/> 
+      <img src= "https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white "/> 
       <img src="https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=ruby&logoColor=white"/>
       <img src="https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white "/>
       <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white"/>
@@ -49,16 +51,22 @@
       <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"/>
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=plastic&logo=redis&logoColor=white  "/> 
       <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white "/>
       <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB  "/> 
       <img src="https://img.shields.io/badge/Express.js-404D59?style=plastic "/>
       <img src="https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white "/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white "/> 
+      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=plastic&logo=android-studio&logoColor=white "/> 
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white "/> 
       <img src="https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white "/>
       <img src="https://img.shields.io/badge/VSCode-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white "/> 
       <img src="https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=Prometheus&logoColor=white "/> 
       <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white "/> 
+      <img src="https://img.shields.io/badge/Sonarqube-5190cf?style=plastoc&logo=sonarqube&logoColor=white "/> 
       <img src="https://img.shields.io/badge/Sentry-black?style=plastic&logo=Sentry&logoColor=#362D59 "/> 
       <img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=Jira&logoColor=white "/> 
+      
       
   
   </div>
@@ -99,15 +107,8 @@
 
 <img src="https://img.shields.io/badge/Elastic_Search-005571?style=plastic&logo=elasticsearch&logoColor=white "/> 
 <img src="https://img.shields.io/badge/Kibana-005571?style=plastic&logo=Kibana&logoColor=white "/> 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white "/> 
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=plastic&logo=android-studio&logoColor=white "/> 
-<img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white "/> 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white "/> 
-<img src="https://img.shields.io/badge/redis-CC0000.svg?&style=plastic&logo=redis&logoColor=white  "/> 
-<img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=plastic&logo=Apollo%20GraphQL&logoColor=white  "/> 
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white "/> 
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white "/>
-<img src= "https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white "/> 
 <img src= "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white "/> 
     </div>
  
