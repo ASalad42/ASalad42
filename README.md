@@ -113,7 +113,7 @@
 <img src="https://img.shields.io/badge/firebase-ffca28?style=plastic&logo=firebase&logoColor=black "/> 
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white "/>
 <img src= "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white "/> 
-<img src=" "/> 
+<img src="https://img.shields.io/badge/axios-671ddf?&style=plastic&logo=axios&logoColor=white"/> 
     </div>
  
  
