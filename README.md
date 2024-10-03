@@ -105,11 +105,15 @@
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=plastic&logo=microsoft-azure&logoColor=white "/> 
+<img src="https://img.shields.io/badge/Stripe-626CD9?style=plastic&logo=Stripe&logoColor=white "/> 
+<img src="https://img.shields.io/badge/circleci-343434?style=plastic&logo=circleci&logoColor=white "/> 
 <img src="https://img.shields.io/badge/Elastic_Search-005571?style=plastic&logo=elasticsearch&logoColor=white "/> 
 <img src="https://img.shields.io/badge/Kibana-005571?style=plastic&logo=Kibana&logoColor=white "/> 
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white "/> 
+<img src="https://img.shields.io/badge/firebase-ffca28?style=plastic&logo=firebase&logoColor=black "/> 
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white "/>
 <img src= "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white "/> 
+<img src=" "/> 
     </div>
  
  
