@@ -34,6 +34,7 @@
       <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white"/>
       <img src="https://img.shields.io/badge/CICD_Pipe_Lines-blue?logo=&logoColor=white&style=plastic"/>
       <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white "/>
+      <img src="https://img.shields.io/badge/Argo%20CD-1e0b3e?style=plastic&logo=argo&logoColor=#d16044 "/>
       <img src="https://img.shields.io/badge/travis_CI-3EAAAF?style=plastic&logo=travisci&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-FFD43B?style=plastic&logo=python&logoColor=blue "/>
       <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E"/> 
