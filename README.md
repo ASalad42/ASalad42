@@ -54,6 +54,7 @@
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=plastic&logo=redis&logoColor=white  "/> 
       <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white "/>
+      <img src="https://img.shields.io/badge/axios-671ddf?&style=plastic&logo=axios&logoColor=white"/> 
       <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB  "/> 
       <img src="https://img.shields.io/badge/Express.js-404D59?style=plastic "/>
       <img src="https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white "/>
@@ -87,8 +88,6 @@
     <img src="https://img.shields.io/badge/AWS_CloudFront-FF9900?style=plastic&logo=amazonaws&logoColor=white "/>
     
     
- 
- 
    
   </div>
   
@@ -106,6 +105,7 @@
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/GitLab-330F63?style=plastic&logo=gitlab&logoColor=white"/> 
 <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=plastic&logo=microsoft-azure&logoColor=white "/> 
 <img src="https://img.shields.io/badge/Stripe-626CD9?style=plastic&logo=Stripe&logoColor=white "/> 
 <img src="https://img.shields.io/badge/circleci-343434?style=plastic&logo=circleci&logoColor=white "/> 
@@ -114,8 +114,7 @@
 <img src="https://img.shields.io/badge/firebase-ffca28?style=plastic&logo=firebase&logoColor=black "/> 
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white "/>
 <img src= "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white "/> 
-<img src="https://img.shields.io/badge/axios-671ddf?&style=plastic&logo=axios&logoColor=white"/> 
-    </div>
+
  
  
  <div align="center">
@@ -123,10 +122,9 @@
     :stars: Certifications 
       </h3>
        <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150" />
-      <img src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="150" />
-     <!--  <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="150" /> -->
-   <!--  <img src="https://images.credly.com/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="150" /> -->
-      <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" />
-    </div>
+        <img src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="150" />
+        <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" />
+       <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="150" />
+
 
 
